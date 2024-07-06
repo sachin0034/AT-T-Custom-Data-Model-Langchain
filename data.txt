@@ -1,0 +1,1503 @@
+Question: How to reset Foundation Account Number Pin for myAT&T account?
+Response: To reset your Foundation Account Number or FAN PIN call 800.288.2020 or 611 from your AT&T mobile phone for assistance.
+
+Question: How to reset Password for myAT&T Account?
+Response: To reset your Password go to myATT for Business, enter your User ID and click “continue”. Click “Forgot Password?”. Enter your user ID and the last name associated with your ID. Choose your verification method and follow the prompts. Enter and confirm your new password.
+
+Question: How to reset Password for AT&T Business Center Account?
+Response: To reset your Password go to AT&T Business Center and click Password in ‘Forgot your email address or password’. Enter the required information and an email will be sent to complete your password reset. Click the button and follow the prompts to reset your password.
+
+Question: How to download my bill?
+Response: Login to your AT&T Premier website and navigate to the Bills tab. Find the desired account. Select Bills in the Bill PDF column. Choose to download Standard Bill or Standard Bill with Usage details included. You can also schedule your downloading of bill, by selecting your account, then choose request bills, choose the date of a month on which the bill pdf should be sent. Further select the type Standard bill or Standard bill with Usage details and input the email to which the bill should be received.
+
+Question: How can I setup AutoPay for my account?
+Response: Login to your AT&T Premier website and navigate to the Bills tab. In the AutoPay column you can see the accounts with AutoPay setup. Select an account for which you want to setup AutoPay. You can select the Payment method or add a new one. Agree with the terms and conditions. Then click on submit.
+
+Question: How to stop AutoPay for my account?
+Response: Login to your AT&T Premier website and navigate to the Bills tab. In the AutoPay column you can see the accounts with AutoPay setup. Select the account for which you want to stop the AutoPay. Click on the AutoPay column and simply choose Stop AutoPay.
+
+Question: How to pay my bill online?
+Response: Login to your AT&T Premier website and navigate to the Bills tab. Select the bills to pay. You can choose multiple bills to pay at once. Click on Pay. Select the Payment method or add a new one. You can choose the amount to be paid from the selected bills or total amount. Schedule your payment for today or upto 60 days in advance. At once, only 10 bills can be charged. Further bills will be charged separately.
+
+Question: How to view invoice for my AT&T Business Center account?
+Response: Login to your AT&T Business Center account and go to invoices tab. Select the invoices you want to view and Click on View. It will display summary of invoices. To view Detailed invoice, choose detailed invoice under expand invoice. You can view charges by account by selecting Break charges by account under Account details.
+
+Question: How to pay invoice for my AT&T Business Center account?
+Response: Login to your Business Center account and on Home page, locate the Billing widget. Select View invoices and make payments. You can also navigate from main menu, under billing tab. Go to Accounts and select view invoice list. Select the invoices you want to pay from the invoice list and click Pay. Verify your details and add Financial Information if missing. Click continue and wait for payment confirmation.
+
+Question: How to compare my invoices for AT&T Business Center account?
+Response: Login to your AT&T Business Center account and under Billing overview go to invoices tab. Select the invoices to compare and Click View. You can view detailed information of each invoice by selecting Detailed invoice under Expand view. Then choose the number months to compare for the invoices under Compare. You will view the detailed summary for the selected invoices for selected number of months.
+
+Question: How to pay bill without logging in for my AT&T account.
+Response: If you are a AT&T Premier or myAT&T customer, go to att.com select your product. Enter your phone number or account number and your zip code. Enter your payment amount and payment method. Click Pay.
+
+Question: How to pay bill without logging in for my AT&T Business Center Account?
+Response: For AT&T Business Center account you need to log in to pay your bills.
+
+Question: How to activate my wireless device online with physical sim card?
+Response: Before you activate your wireless device online that has a physical sim card, make sure your data is saved to the cloud or transferred to the new device. It is important as once you activate your new device you won’t be able to access data in your older device. You can use the AT&T Mobile Trasnfer App to transfer your data from old device to new one. Remember not to put the SIM card from your old device into your new device until your new one is activated. Find your order confirmation email with the link to the activation process and follow the instructions to activate your device. If you can’t find your order confirmation email, go to the AT&T Order Status Activation page. If your device isn’t active within 3 hours, contact Business Support at 800.331.0500, Monday through Friday, 7 a.m. to 8 p.m. Central Time, or Saturday and Sunday, 8 a.m. to 8 p.m. Central Time.
+
+Question: How to activate my wireless device online with esim card?
+Response: Activating with an eSim is easy. Connect to Wi-Fi and turn on your new device and follow the prompts to activate. The steps would be different from device to device.
+
+Question: How can I transfer my billing details to another owner?
+Response: Before you transfer your details, make sure you have the correct email address for the person taking over the line. Pay off any installment plans tied to the line before transferring. Confirm line being transferred is over 30 days old. Be aware that any voicemails still associated with the line will be lost after the transfer is completed. There are three ways to do this – Through AT&T Premier, talking to Automated System or speaking with an Agent. 
+
+Question: How can I transfer my billing details to another owner using AT&T Premier?
+Response: After you log in to AT&T Premier, to Start the transfer select Transfer Billing Responsibility from the ‘I want to list’ on the taskbar. Enter the wireless number you want to transfer. Enter an email address for the person taking over the line and select the date by which the transfer needs to be completed. Confirm that the information is correct, check the box to authorize the transfer, then submit. You can check the status of the transfer under Transaction History. Choose a date between 3 and 59 days (about 2 months) from the date you’re starting the transfer. This gives the new line owner time to accept the billing responsibility. We recommend a minimum of 5 days. To accept the transfer the new account owner will receive an email and text message with instructions to complete the billing transfer by the date you chose. A credit check will take place for the new owner to complete the process. The new owner need to go to www.att.com/tobr. Select Accept a transfer. Enter the requested info and Select Submit. If new owner is not able to see the email, Check the spam folder. The email is sent from AT&T Account Management - update@account.att-mail.com.
+
+Question: How can I transfer my billing details to another owner using Automated system?
+Response: To transfer billing details using Automated System place a call on 800.331.0500. When you are prompted to what type of assistance you need, make sure to say ‘Transfer service’ or ‘Transfer number’. Follow the prompts to get started. You will be sent an email for the information to be completed and click on submit.
+
+Question: How can I transfer my billing details to another owner by speaking with an Agent?
+Response: To transfer billing details using Automated System place a call on 800.331.0500. The agent might require few details like Foundation Account Number Pin or Password. 
+
+Question: How can I find status of my maintenance ticket for AT&T Business account?
+Response: Login to your AT&T Business Center account, under overview section, go to the maintenance widget. Select ‘Check ticket status’ and enter ticket number. Submit your request. You will be able to view open tickets. Click on the ticket number to expand the details of your ticket.
+
+Question: How can I find status of my maintenance ticket for AT&T Business account without loggin in?
+Response: You can easily check the status of a ticket and make updates for select services with AT&T Express Ticketing (att.com) on your phone, tablet or PC.  Though you won’t need your login information for Express Ticketing, you will need your Asset ID. 
+
+Question: What browser should I use for AT&T Express Ticketing?
+Response: For best results, we recommend using Google Chrome™, Microsoft Edge®, or Mozilla® Firefox®. If you experience issues with the site, clear your cache and refresh your browser.
+
+Question: How can I start over when creating my ticket?
+Response: To return to the Express Ticketing homepage, on the top navigation bar, click Express Ticketing.
+
+Question: Do I need to log in to Business Center to use Express Ticketing?
+Response: No, you can access it directly from the Business Center login page.
+
+Question: How should I format my asset ID when it includes delimiters?
+Response: To learn how to format your asset ID, use the Asset Lookup Wizard. To access it, go to the Express Ticketing homepage and then, under Create a new request for help, click Asset Lookup Wizard.
+
+Question: I need to file a ticket for AT&T Dedicated Internet. What should I use for the asset ID?
+Response: For AT&T Dedicated Internet tickets, use the IP address for your asset ID.
+
+Question: Can I open a ticket for Plain Old Telephone System (POTS)?
+Response: Yes, you can open an informational ticket or a trouble ticket on POTS. You can have only 1 open ticket at a time on POTS.
+
+Question: When checking my ticket status, I entered the ticket number and clicked Search, but nothing happened. What might be the issue?
+Response: Make sure your browser’s pop-up blockers are disabled.
+
+Question: What number format should I use for Transport tickets?
+Response: When you look up the status for Transport tickets, include the leading 0. For example, 0998877123
+
+Question: What number format should I use for Managed tickets?
+Response: When you look up the status for Managed tickets, you can include or omit the leading 0s. Only the whole integers are required. For example, 2222222222.
+
+Question: How can I request a PIN for an AT&T service ticket?
+Response: To request a PIN, go to Express Ticketing in the Business Center, enter your ticket number, leave the PIN field blank, click Get status, then click the Request/Enter PIN icon and submit your information. You will receive the PIN via email.
+
+Question: What should I do if I don't have a PIN for my ticket?
+Response: You can submit a request for a PIN through the Express Ticketing portal. The PIN will be sent to your email, and an email will also be sent to the user who created the ticket.
+
+Question: How do I check the status of an existing request in Express Ticketing?
+Response: In the Express Ticketing portal, enter your service assurance ticket number, select the state or country, and click Get status. If you have a PIN, enter it; otherwise, you can request one.
+
+Question: What can I do if I need help with a service ticket and cannot use Express Ticketing?
+Response: Contact your AT&T representative using the phone number found on your billing statement if you have accessibility needs preventing the use of Express Ticketing.
+
+Question: How can I interact with the virtual assistant in Express Ticketing?
+Response: Click the Request chat icon on the Ticket Status page to interact with the virtual assistant for updates on your ticket, technician dispatch status, outage notifications, and more.
+
+Question: Where can I find additional resources and support for AT&T business services?
+Response: Additional resources and support are available on the AT&T Business forums and the Contact Us page on the AT&T Business website.
+
+Question: How can I view and update my service ticket?
+Response: Go to Express Ticketing, enter your service assurance ticket number, select the state or country, and click Get status. You can then view and update your ticket if needed.
+
+Question: What information can I access through the virtual assistant for my service ticket?
+Response: The virtual assistant provides ticket status, outage notifications, technician location, estimated repair time, self-service knowledge base access, and more.
+
+Question: How can I authorize a technician dispatch or circuit testing for my service ticket?
+Response: You can authorize these actions through the virtual assistant on the Ticket Status page in Express Ticketing.
+
+Question: Where can I find service contact information for AT&T business support?
+Response: Service contact information is available on the AT&T Business forums and the Contact Us page on the AT&T Business website.
+
+Question: What happens when I create an incident ticket with AT&T?
+Response: When you create an incident ticket, you receive a six-digit PIN via email that provides access to the ticket log with full features, including viewing status, adding attachments, and more.
+
+Question: How can I access the features of my incident ticket?
+Response: Enter your ticket number, geographic location, and six-digit PIN in the Express Ticketing portal to access ticket status, notes, subscriptions, and more.
+
+Question: What confirmation emails will I receive after creating a trouble ticket?
+Response: You will receive two emails: one confirming the trouble ticket and another with the six-digit PIN for Express Ticketing access.
+
+Question: How does PIN authentication benefit my ticket management?
+Response: PIN authentication allows you to manage your ticket directly through the portal, eliminating the need for calls to the AT&T helpdesk.
+
+Question: What actions can I take with PIN authentication in Express Ticketing?
+Response: You can view notes, add notes, request escalations, close tickets, initiate chat requests, and more.
+
+Question: What does the second confirmation email include?
+Response: The second email includes the six-digit PIN needed to access your incident ticket in Express Ticketing.
+
+Question: Why is the six-digit PIN important?
+Response: The PIN provides secure access to your ticket, enabling you to use all management features without calling the helpdesk.
+
+Question: How does PIN authentication enhance incident management?
+Response: It allows you to independently manage your ticket, reducing the need for manual intervention from AT&T support staff.
+
+Question: What features are available with PIN authentication in Express Ticketing?
+Response: Features include checking ticket status, subscribing to updates, adding attachments, and more.
+
+Question: How does Express Ticketing improve customer service?
+Response: Express Ticketing with PIN authentication streamlines ticket management, providing a seamless and efficient customer service experience.
+
+Question: How do I set up text notifications for my incident ticket?
+Response: To set up text notifications, go to att.com/expressticketing, enter your Asset ID in the Create a new request for help section, complete the required steps, select Text under Choose All Preferred Notification Methods, and save your preferences.
+
+Question: What types of Asset IDs can I enter when creating a new request for help?
+Response: You can enter various types of Asset IDs, including Circuit ID, phone number, IP address, or router hostname. Use the Asset Lookup Wizard for assistance if needed.
+
+Question: What steps must I follow to complete a new request for help?
+Response: After entering your Asset ID, complete the steps for Asset Information, Validate Power, Problem Information, and Access Hours, then proceed to the Contact Information page to set up notifications.
+
+Question: How can I view the status of my ticket?
+Response: Go to att.com/expressticketing, enter your ticket number in the Check the status of an existing request field, select the state, and enter your PIN if you have one. Click Get Status to view your ticket status.
+
+Question: What can I do from the Ticket Status page?
+Response: From the Ticket Status page, you can refresh the ticket, add a log note, request an escalation, request closure, and manage your subscriptions.
+
+Question: How do I manage text subscriptions for my ticket?
+Response: After receiving your PIN via email, click the PIN to open the Ticket Status window, then click Manage Subscriptions. On the Notification Contacts page, add a subscriber by entering their contact details and clicking Submit.
+
+Question: What should I do if I need to make changes to my request?
+Response: On the Summary page of your ticket request, click Edit Report to make necessary changes before submitting the ticket.
+
+Question: How do I confirm my ticket submission?
+Response: Check the box to agree to the Terms of Use on the Summary page, then click Submit Ticket. You will receive a confirmation message and the ticket number upon successful submission.
+
+Question: What happens after I successfully submit a ticket?
+Response: You will receive two emails: one with the ticket number and another with your PIN. Use these to manage and view the status of your ticket.
+
+Question: Can I reply to text notifications for my incident ticket?
+Response: Yes, you can reply Yes or No to text messages asking to confirm power, testing, location control, and site access. This helps manage your ticket efficiently.
+
+Question: How do I add a new subscriber to my ticket’s text notifications?
+Response: On the Notification Contacts page, click Add Subscriber, fill in the contact details, and click Submit. This allows other contacts to receive and respond to text notifications.
+
+Question: What are the benefits of setting up text notifications for my incident ticket?
+Response: Text notifications allow you to receive real-time updates and reply to requests about power setup, testing, location control, and site access, improving ticket management and communication.
+
+Question: Where can I find help if I have trouble locating my Asset ID?
+Response: Use the Asset Lookup Wizard on the att.com/expressticketing page to find your Asset ID, which can include alphanumeric values and specific characters like slashes, periods, and hyphens.
+
+Question: How does PIN authentication enhance the Express Ticketing experience?
+Response: PIN authentication provides secure access to manage your ticket, allowing you to view status, add notes, request escalations, close tickets, and initiate chat requests without needing to call the helpdesk.
+
+Question: What steps are involved in setting up and managing text subscriptions?
+Response: Receive your PIN via email, click the PIN link, manage your ticket through the Ticket Status window, and add subscribers by entering their details on the Notification Contacts page.
+
+Question: What is the Notification Subscription feature in Express Ticketing?
+Response: The Notification Subscription feature allows customers to sign up for status updates on their reported incidents, receiving timely communication via email, SMS, text, or other preferred methods.
+
+Question: How can I create a Notification Subscription while opening a ticket?
+Response: In Express Ticketing, enter the primary contact information, or designate another contact as the Local Contact (LCON), and select the preferred notification methods before submitting the ticket.
+
+Question: What information is required when setting up a Notification Subscription?
+Response: You need to enter details such as the primary contact or designate another person as the LCON, and select the preferred delivery method for notifications.
+
+Question: How can I manage a Notification Subscription on an existing ticket?
+Response: Click "Manage Subscription" in Express Ticketing, add notification subscriber contacts, and make any necessary changes. You will receive a success notification once updates are made.
+
+Question: How do I add a contact for ticket notifications in Business Center?
+Response: Scroll to Ticket Notification Subscribers, click "Add Contact," enter the contact details, and select "Asset" for the contact type. Repeat the process to add more subscribers.
+
+Question: How do I manage Notification Subscriptions for existing tickets in Business Center?
+Response: Expand Ticket Notifications, click "Add Contact," enter the contact's details, and select their preferences.
+
+Question: What is the process for setting up notifications in BusinessDirect?
+Response: View the report and track the trouble ticketing summary, select "Create Ticket Status," complete the Contact Information section, and add primary and alternate contacts.
+
+Question: How can I manage notifications for existing tickets in BusinessDirect?
+Response: Click "Add Ticket Subscription" under the Contact Information section, complete the Manage Subscription page, and make any necessary changes.
+
+Question: What are the benefits of using the Notification Subscription feature?
+Response: This feature provides proactive and consistent incident status updates, improves customer experience, and allows for timely communication without delays.
+
+Question: What systems support the Notification Subscription feature?
+Response: The Notification Subscription feature is available in AT&T Express Ticketing, AT&T Business Center, and AT&T BusinessDirect systems.
+
+Question: How can I choose the preferred delivery method for my notifications?
+Response: When setting up the subscription, select your preferred delivery method (email, SMS, text) and specify the timeframe for receiving updates.
+
+Question: What steps are involved in adding a Notification Subscriber Contact in Business Center?
+Response: Go to Ticket Notification Subscribers, click "Add Contact," fill in the contact details, select "Asset" as the contact type, and submit.
+
+Question: How do I confirm that my subscription updates were successful?
+Response: After adding or managing subscriber contacts, a success notification will appear indicating that the changes were successfully made.
+
+Question: Can I receive status updates throughout the life of an incident?
+Response: Yes, subscribing customers will receive status updates for AT&T Business throughout the life of the incident using their preferred delivery method.
+
+Question: What steps should I follow to manage Notification Subscriptions in BusinessDirect?
+Response: To manage subscriptions, click "Add Ticket Subscription" under the Contact Information section, complete the Manage Subscription page, and make any necessary changes.
+
+Question: What improvements does the Notification Subscription feature offer?
+Response: It provides a customer-centric approach to incident status updates, enhancing the customer experience with timely and consistent communication.
+
+Question: How does the Notification Subscription feature impact customer service?
+Response: It improves customer service by providing real-time status updates in the customer's preferred format, reducing the need for manual status checks.
+
+Question: What should I do if I need to change my notification preferences?
+Response: Access the Manage Subscription page for your ticket, view the current preferences, and make any necessary changes to update your notification settings.
+
+Question: What happens if I change my plan or add-ons between bill periods?
+Response: If you change your plan or add-ons between bill periods, you will see partial month charges or credits on your next bill.
+
+Question: What types of account updates can cause partial month charges or credits?
+Response: Common updates include rate plan or feature changes, adding or canceling a line, account moves, and bill cycle changes.
+
+Question: How are partial month charges and credits calculated?
+Response: Partial month charges are calculated based on the number of active days for a new plan or feature, while partial credits are given for the days an old plan or feature was no longer active.
+
+Question: Can you provide an example of a partial month charge?
+Response:  If your bill period starts on the 1st and you add mobile insurance on the 10th, you will see partial charges for mobile insurance starting from the 10th.
+
+Question: What happens if I change my rate plan 10 days into the billing period?
+Response: You will receive a partial credit for the old plan's inactive days and a partial charge for the new plan's active days.
+
+Question: Do partial month charges include taxes and fees?
+Response: No, partial month charges apply only to monthly recurring charges and do not include taxes, fees, equipment charges, or one-time charges.
+
+Question: How can I avoid partial month charges in the future?
+Response: Schedule your account changes to start on the first day of your next bill period to avoid partial month charges.
+
+Question: Where can I view my bill?
+Response: You can view your bill by logging into your AT&T online tool or visiting business.att.com.
+
+Question: When will the credits and charges appear on my bill?
+Response: Both credits and charges will appear on your next month's bill as the previous month's charges.
+
+Question: How does AT&T ensure customers are only charged for active days?
+Response: AT&T only charges for the days a plan or feature was active on your account, ensuring accurate billing based on usage.
+
+Question: What should I do if I have questions about my bill?
+Response: If you have questions about your bill, you can log in to your AT&T online tool or visit the support section on business.att.com for assistance.
+
+Question: What is the purpose of the tutorial on navigating with multiple IDs in AT&T Premier?
+Response: The tutorial explains how to navigate between accounts in Premier when you have multiple user IDs set up for separate organizations.
+
+Question: How do I view and manage accounts for different organizations in Premier?
+Response: Log in to Premier, select the user ID associated with the organization you want to manage. To manage a different organization, select Change and choose another user ID from your list.
+
+Question: Can I view and manage foundation account numbers (FANs) for all organizations at once?
+Response: No, you can only view and manage FANs associated with the specific organization selected by its user ID.
+
+Question: How do I create and schedule reports for multiple organizations in Premier?
+Response: Reports need to be created and scheduled for each user ID separately, as the same reports cannot be used for multiple organizations.
+
+Question: What should I do if I have new user IDs for new organizations?
+Response: You can link new user IDs to your existing profile during the registration process.
+
+Question: Is it possible to manage multiple organizations under one user ID?
+Response: No, each organization you manage must be tied to a separate user ID.
+
+Question: How do I switch between different user IDs in Premier?
+Response: To switch between different user IDs, select Change and then choose the desired user ID from your list.
+
+Question: Can I view all user IDs associated with my profile when I log in to Premier?
+Response: Yes, when you log in to Premier, you will see all user IDs associated with your profile.
+
+Question: Where can I find more tutorials about using Premier?
+Response: You can find more tutorials by checking out other videos in the series on Premier.
+
+Question: How do I schedule automatic payments in AT&T Premier?
+Response: To schedule automatic payments, log in to AT&T Premier, click on Billing in the navigation bar, select Bills, choose the accounts to set up, click Manage payments, select Manage AT&T AutoPay, add a payment method if needed, accept the Terms and Conditions, and submit the request.
+
+Question: Where can I find the option to manage automatic payments in AT&T Premier?
+Response: You can find the option under Billing in the navigation bar by selecting Bills and then Manage payments.
+
+Question: What should I do if I don't have a payment method stored in AT&T Premier?
+Response: If you don't have a payment method stored, add one when setting up AT&T AutoPay during the scheduling process.
+
+Question: What must I do after adding a payment method to schedule automatic payments?
+Response: After adding a payment method, accept the Terms and Conditions and submit the request to complete the scheduling of automatic payments.
+
+Question: Can I set up automatic payments for multiple accounts in AT&T Premier?
+Response: Yes, you can choose one or more accounts to set up for automatic payments in AT&T Premier.
+
+Question: What are the steps to access the Bills section in AT&T Premier?
+Response: Log in to AT&T Premier, click on Billing in the navigation bar, and then select Bills.
+
+Question: What is the final step to complete the scheduling of automatic payments?
+Response: The final step is to accept the Terms and Conditions and submit the request.
+
+Question: Where do I find the option to manage AT&T AutoPay in AT&T Premier?
+Response: You can find the option under Manage payments by selecting Manage AT&T AutoPay.
+
+Question: How do I download my FAN remittance form in AT&T Premier?
+Response: Log in to AT&T Premier, click Billing on the navigation bar, go to Bills, select the foundation account record, click Manage payments, then Remittance form, confirm the correct account, and click OK.
+
+Question: Can I schedule my remittance form to generate automatically every month?
+Response: Yes, you can schedule it to generate automatically every month by selecting the appropriate options under the Request bills section.
+
+Question: Where do I find the foundation account record in AT&T Premier?
+Response: In the Bills section, select the foundation account record from the list of accounts, identified by the account number matching the foundation account number.
+
+Question: What options do I have for the frequency of remittance form generation?
+Response: You can choose Monthly on day and select a day of the month 13-14 days after your FAN cycle close date.
+
+Question: What document type should I select to reschedule my remittance form?
+Response: Select FAN remittance form under Document type.
+
+Question: How can I confirm the correct account was selected before downloading the remittance form?
+Response: After selecting the foundation account record and Manage payments, verify the account details and then click OK.
+
+Question: What steps should I follow to request bills in AT&T Premier?
+Response: Log in, click Billing, go to Bills, select the foundation account record, choose Request bills, select Current month's bill or Previous month's bill, and set the frequency and document type.
+
+Question: Where can I manage payments and download the remittance form?
+Response: In the Bills section of AT&T Premier, under Manage payments, you can download the remittance form.
+
+Question: How do I ensure I have the correct foundation account number?
+Response: The foundation account record will show the account number matching the foundation account number you need to confirm.
+
+Question: Can I download the remittance form for previous months?
+Response: Yes, you can select either the Current month's bill or Previous month's bill when scheduling your remittance form.
+
+Question: How do I customize my notification preferences in AT&T Premier?
+Response: To customize your notification preferences, go to Setup, then under Account Management preferences, select notification preferences.
+
+Question: What options are available under notification preferences in AT&T Premier?
+Response: You can choose to display a confirmation page when updating your custom hierarchy, set the default number of records to display on a page, receive an email when new bills are ready, and receive an email for autopay activities.
+
+Question: How can I set the default number of records to display when viewing accounts on the bills page?
+Response: Under notification preferences, you can choose the default number of records to display on a page when looking at your accounts on the bills page.
+
+Question: Can I receive notifications when new bills are ready online in AT&T Premier?
+Response: Yes, you can choose to receive an email notification when new bills are ready online by setting this preference under notification preferences.
+
+Question: How do I get notified about autopay activities in AT&T Premier?
+Response: You can set up to receive an email notification for any autopay activities by configuring this option under notification preferences.
+
+Question: Where do I find the option to display a confirmation page for updates in AT&T Premier?
+Response: This option is available under notification preferences in the Setup section of Account Management preferences.
+
+Question: What is the purpose of the confirmation page in notification preferences?
+Response: The confirmation page displays when you update your custom hierarchy, ensuring that you review and confirm your changes.
+
+Question: How do I access the Setup section in AT&T Premier?
+Response: Log in to AT&T Premier and navigate to the Setup section through the main menu or navigation bar.
+
+Question: What should I do if I need help setting up notification preferences?
+Response: Refer to the tutorial video or check out other videos in the series for more detailed instructions on using Premier.
+
+Question: What is the AT&T Premier Dashboard?
+Response: The AT&T Premier Dashboard is a convenient interface that shows data at a glance, including important messages, monthly totals, and more, to help manage your business accounts.
+
+Question: What kind of information can I find in the important messages section?
+Response: The important messages section includes announcements, updates, tips on the latest features, and other information related to the Premier experience. These messages are updated frequently.
+
+Question: How can I analyze month-over-month totals on the Premier Dashboard?
+Response: In the center of the dashboard, the monthly totals section allows you to analyze month-over-month totals, which refresh automatically to provide up-to-date results.
+
+Question: What can I do in the monthly totals section?
+Response: View the report and track the trouble ticketing summary, select "Create Ticket Status," complete the Contact Information section, and add primary and alternate contacts.
+
+Question: How can I view the full bill for a specific month?
+Response: To view the full bill for a specific month, click on the month in the monthly totals section to access the full bill section.
+
+Question: Where can I check the status of specialty reports in Premier?
+Response: You can check the status and access completed specialty reports by going to the reports section and clicking on the relevant link.
+
+Question: What information is available in the Top Spenders section?
+Response: The Top Spenders section displays the wireless numbers with the highest current charges, helping you track significant expenses.
+
+Question: How can I get help while navigating Premier?
+Response: Use the chat feature on the dashboard to ask any questions you might have while navigating Premier.
+
+Question: What should I do if I want to see a breakdown of charges for a specific month?
+Response: Use the drop-down menu at the top of the monthly totals section to select the date, and view the breakdown of charges, including balance forward, current charges, and total amount billed.
+
+Question: Where can I learn more about using Premier?
+Response: Check out other tutorial videos in the series to learn more about using AT&T Premier.
+
+Question: What should I do if I can't make or receive calls on my AT&T mobile device?
+Response: Follow these steps to troubleshoot: Turn your phone off and back on. Try calling the number again. Ensure your software is up to date by visiting att.com/softwareupdates. Confirm you have wireless service and a signal. Turn off call forwarding by pressing #21# and then Call. Turn off airplane mode. Check your SIM card. Reactivate your service if suspended. For detailed support, visit the Device Support page.
+
+Question: How do I update my device's software?
+Response: Visit att.com/softwareupdates to check and install the latest software updates for your device.
+
+Question: How can I confirm I have wireless service?
+Response: Check for a signal on your device and verify coverage using AT&T's network coverage map.
+
+Question: What does it mean if my phone displays "Insert SIM" or "Emergency Call Only"?
+Response: It means there may be an issue with your SIM card. Remove and reinsert the SIM card to ensure it's properly seated.
+
+Question: How do I turn off call forwarding on my AT&T mobile device?
+Response: Press #21# on your phone, followed by the Call, Send, Talk, or Receiver key to turn off call forwarding.
+
+Question: What should I do if my service is suspended?
+Response: Find out how to reactivate your wireless service by visiting the AT&T support page or contacting customer service.
+
+Question: How do I turn off airplane mode on my device?
+Response: Most phones will display an airplane icon when airplane mode is on. Turn it off through your phone's settings.
+
+Question: Where can I get step-by-step help for my device?
+Response: Visit the Device Support page for detailed assistance.
+
+Question: How can I contact AT&T for further support?
+Response: Log in to chat with a representative or call 800-331-0500 for assistance.
+
+Question: Who can generate the Raw Data Output report in AT&T Premier?
+Response: Company administrators for all foundation account types can generate the Raw Data Output report to view all available usage and charges information for their lines.
+
+Question: Where do I go to generate the Raw Data Output report in AT&T Premier?
+Response: Go to Bills, select the foundation account record from the list of accounts, click Bills in the Bill PDF column, and then select Raw Data Output.
+
+Question: How soon is the Raw Data Output report available after the cycle close date?
+Response: The report is available on demand 13 to 14 days after your cycle close date and will be ready to download.
+
+Question: Can I schedule the Raw Data Output report for automatic delivery each month?
+Response: Yes, you can schedule the report for automatic monthly delivery by selecting the FAN level record, clicking Request Bills, and choosing a day 13 to 14 days after your cycle close date. Select Raw Data Output under document type.
+
+Question: What steps should Fulfillment Foundation Account Number customers follow to subscribe to the report?
+Response: Fulfillment Foundation Account Number customers need to initially subscribe to the report by selecting the FAN level record before downloading it from the Bill PDF column. Follow the same steps for scheduling the report and choose to have it delivered one time or monthly.
+
+Question: Do I need to check any boxes before selecting links in the Bills section?
+Response: You do not need to check any boxes before selecting the bills link to generate the report. However, you need to check the box before selecting the Request Bills link when scheduling the report.
+
+Question: How can I download the Raw Data Output report once it is available?
+Response: The report will be available to download from the Bill PDF column 13 to 14 days after your cycle close date.
+
+Question: What information is included in the Raw Data Output report?
+Response: The Raw Data Output report includes all available usage and charges information for the lines associated with the foundation account.
+
+Question: What are hierarchies in AT&T Premier and why are they important?
+Response: Hierarchies in AT&T Premier allow you to view your data your way by organizing information based on your preferences, such as by department or using GL codes for tracking expenses.
+
+Question: How do I start building a hierarchy in AT&T Premier?
+Response: Go to Setup, select Build, then edit the public hierarchy if needed, or create new hierarchies by adding nodes (individual pieces of your hierarchy).
+
+Question: What is the first step in building a hierarchy?
+Response: The first step is adding nodes, which represent individual pieces of your hierarchy, such as departments or GL codes.
+
+Question: How do I add branches to my hierarchy?
+Response: Select a node and add additional nodes to that branch to build out your hierarchy further.
+
+Question: How do I assign accounts to my hierarchy?
+Response: Select Manage, change the display to Accounts, select one or more accounts, and move them to the desired node of your hierarchy.
+
+Question: Where should I move accounts for maximum flexibility?
+Response: Move accounts to "Your organization," the highest level of your hierarchy, to provide the most flexibility when assigning individual wireless numbers.
+
+Question: How do I assign wireless numbers to my hierarchy?
+Response: Change the display to Wireless numbers, select one or more wireless numbers, and assign them to the desired node of your hierarchy.
+
+Question: What should I do when new accounts and lines are added?
+Response: Go through the steps to assign new accounts and lines, displaying Your organization/unassigned in the path column.
+
+Question: What is the purpose of assigning wireless numbers to nodes?
+Response: Assigning wireless numbers to nodes helps organize your data more effectively, ensuring each number is associated with the correct department or branch.
+
+Question: Where can I find more information on using custom hierarchies in AT&T Premier?
+Response: Check out part two of the tutorial series, "Using Custom Hierarchies," for more detailed instructions.
+
+Question: Where can I use custom hierarchies in AT&T Premier?
+Response: Custom hierarchies can be used in the Cost Allocation report, when viewing bills, and when generating or customizing reports.
+
+Question: What is the Cost Allocation report?
+Response: The Cost Allocation report allows you to view your costs distributed by your custom hierarchy and can be scheduled for delivery directly to your inbox.
+
+Question: How do I select which hierarchy to use in reports?
+Response: When generating reports or viewing bills, use the "View by" dropdown and select the desired level of your hierarchy.
+
+Question: Can I view bills for a specific branch of my hierarchy?
+Response: Yes, you can view bills associated with a specific branch, such as the Marketing branch, by selecting the appropriate level in the "View by" dropdown.
+
+Question: How can I use hierarchies when customizing summary reports?
+Response: In summary reports, you can group your results by different nodes of your hierarchy.
+
+Question: How do I customize detail reports with hierarchies?
+Response: In detail reports, you can add hierarchy nodes as columns and sort your results by these nodes.
+
+Question: How can I customize the way I see my data in AT&T Premier?
+Response: In AT&T Premier, you can choose from various graphs such as bar, line, column, donut, and more to visualize your data.
+
+Question: How do I switch between different types of graphs in AT&T Premier?
+Response: To switch graphs, simply select the desired graph type from the available options. For example, you can switch from a donut graph to a column graph.
+
+Question: Can I change the calculation method used on the data in AT&T Premier?
+Response: Yes, you can customize the calculation method. For instance, you can change the method to show total activity since the last bill amount.
+
+Question: How do I view related information on a graph in AT&T Premier?
+Response: Hover over the graph areas to see related information.
+
+Question: Is it possible to see both the table view and the graph view in AT&T Premier?
+Response: Yes, you can toggle between the table view and the graph view easily.
+
+Question: Can I export my graph from AT&T Premier?
+Response: Yes, you can export an image of your graph as a JPG or PNG file.
+
+Question: How do I ensure that my customized report settings are saved in AT&T Premier?
+Response: To save your report settings, make sure to save the report so you can see it the same way next time.
+
+Question: What should I do if I need further help using AT&T Premier?
+Response: Check out other tutorial videos in the series to learn more about using AT&T Premier.
+
+Question: How do I navigate to the maintenance section in AT&T Business Center to create a ticket?
+Response: From the main dashboard, you can navigate to maintenance by selecting Manage, then Network, and either Search Assets, Create a Trouble Ticket, or View All Inventory.
+
+Question: Can I use a widget to create a trouble ticket in AT&T Business Center?
+Response: Yes, you can use the Maintenance widget. Choose Create a Trouble Ticket, enter search criteria, then search details.
+
+Question: What is the first step to creating a trouble ticket using the Maintenance widget?
+Response: Go to the Maintenance widget, choose Create a Trouble Ticket, enter the details of the equipment or software, then submit the request.
+
+Question: What happens if I choose to run a self-diagnose analysis when creating a ticket?
+Response: If you choose to run a self-diagnose analysis, it will run in the background and notify you when the results are ready to be reviewed via a pop-up message with a link.
+
+Question: What information is required to complete the create ticket form?
+Response: The create ticket form consists of several sections that need to be completed in order, ensuring all required fields are updated.
+
+Question: What do I receive after submitting a trouble ticket?
+Response: After submitting the ticket, you will receive a ticket number to track its progress.
+
+Question: Where can I get additional help with creating a ticket in AT&T Business Center?
+Response: For additional help, visit att.com/digitaltraining.
+
+Question: What is the purpose of setting up SFTP locations in AT&T Premier?
+Response: Setting up SFTP locations in AT&T Premier allows you to have reports delivered securely to your internal SFTP server.
+
+Question: How do I access SFTP locations in AT&T Premier?
+Response: Access SFTP locations from the Setup tab under account information.
+
+Question: What information do I need to set up an SFTP location?
+Response: You need to create a display name, enter the host or IP address, the login or username and password for your organization's server, and optionally a port number (default is 22).
+
+Question: How do I add an SFTP location in AT&T Premier?
+Response: Go to Setup, select SFTP locations, click on add location, enter the required information, and save.
+
+Question: What is the default port number for SFTP locations?
+Response: The default port number is 22, but you can specify a different port if needed.
+
+Question: How can I use the SFTP location once it's set up?
+Response: You can choose the SFTP location when you schedule a report or request bills.
+
+Question: Where can I find more detailed instructions on setting up SFTP locations?
+Response: For a detailed step-by-step guide, visit the Help Center, then go to Quick Help for Setup, and select Setting up SFTP Locations.
+
+Question: What should I do if I encounter issues setting up an SFTP location?
+Response: Refer to the Help Center for troubleshooting steps or additional assistance.
+
+Question: What are user-defined labels in AT&T Premier?
+Response: User-defined labels are custom labels you can add to your summary and detail reports to help organize and summarize your data.
+
+Question: How do I apply user-defined labels to a summary report in AT&T Premier?
+Response: When creating or editing a summary report, you can add user-defined labels as a group or subgroup to determine how your data is summarized and to enable drilling down into your data in graphs.
+
+Question: Can I see user-defined labels in table views of my data?
+Response: Yes, user-defined labels are displayed as columns when viewing data in a table, and they appear in all capital letters.
+
+Question: How do I add user-defined labels to a detail report?
+Response: You can add user-defined labels as columns in a detail report and sort the data by these labels.
+
+Question: Can I sort data by user-defined labels in AT&T Premier?
+Response: Yes, you can sort your data by user-defined labels in detail reports.
+
+Question: What is the benefit of using user-defined labels in reports?
+Response: User-defined labels help you customize your reports, making it easier to organize, summarize, and analyze your data according to your specific needs.
+
+Question: How can user-defined labels help in viewing report results in a graph?
+Response: User-defined labels, when added as groups or subgroups, allow you to drill down into your data when viewing the results in a graph.
+
+Question: Can I use user-defined labels to summarize my data in AT&T Premier?
+Response: Yes, user-defined labels can be added as groups or subgroups in summary reports to help summarize your data.
+
+Question: How do user-defined labels appear in the reports?
+Response: User-defined labels are displayed in all capital letters in the reports.
+
+Question:  Where can I find more tutorials on using AT&T Premier?
+Response: Check out other videos in the series to learn more about using AT&T Premier.
+
+Question: How do I start creating a custom report in AT&T Premier?
+Response: To start creating a custom report, select "Add custom report," choose the option to start with a new report, and enter a report name.
+
+Question: What should I name my custom report?
+Response: Choose a name that easily identifies it as one of your custom reports, such as "Monthly Usage - Custom Report."
+
+Question: How can I narrow down the results in my custom report?
+Response: Apply filters to your custom report to narrow down the results according to your needs.
+
+Question: Can I choose how my data is presented in a custom report?
+Response: Yes, you can choose whether you want to see your data as a table or graph.
+
+Question: How do I organize data in my custom report?
+Response: Use the grouping section to organize your data. You can select up to four groups, such as account number and individual wireless numbers.
+
+Question: How do I add columns of data to my custom report?
+Response: Under table view, select the columns of data to include, and use the arrows to move the columns up or down.
+
+Question: Can I change the type of graph in my custom report?
+Response: Yes, under graph view, select the type of graph you would like to see, such as a donut graph.
+
+Question: How do I choose the calculation method for my custom report?
+Response: Select the calculation method you prefer, such as total kilobyte usage.
+
+Question: What should I do after creating my custom report?
+Response: Be sure to save the changes. You can also opt to share the report so it appears in the Available Reports list.
+
+Question: Where can I find more tips on reporting in AT&T Premier?
+Response: Click on the question mark at the top or bottom of the page for help and more tips on reporting.
+
+Question: How can I send bills and reports directly to my inbox in AT&T Premier?
+Response: You can send bills and reports to your inbox by selecting the option to send a link or an attachment if the file is under 10 MB.
+
+Question: What are the two options available for sending bills and reports in Premier?
+Response: The two options are sending a link to the file or sending the file as an attachment if it is under 10 MB.
+
+Question: How do I request a bill to be sent to my email?
+Response: From the Bills tab, select one or more bills from your list, then click Request bills. Choose the format and select the option to send a link or an email under Order Notification.
+
+Question: What happens if the file size of the bill or report is over 10 MB?
+Response: If the file size is over 10 MB, Premier will automatically send a link to the file instead of an attachment.
+
+Question: Can I schedule reports to be sent to my email in AT&T Premier?
+Response: Yes, when scheduling a report, you can choose to send a link or an attachment, similar to requesting bills.
+
+Question: What should I do to send a bill as an email attachment?
+Response: Select the bill, choose the format, and under Order Notification, select the option to send an email if the file is under 10 MB.
+
+Question: Where can I find the option to request bills in AT&T Premier?
+Response: You can find the option under the Bills tab, where you can select one or more bills from your list and click Request bills.
+
+Question: Is there a file size limit for sending attachments in AT&T Premier?
+Response: Yes, the file size limit for sending attachments is 10 MB. If the file is larger, a link to the file will be sent instead.
+
+Question: How do I choose the format for my bill in AT&T Premier?
+Response: When requesting a bill, after selecting one or more bills, you can choose the desired format before selecting the notification options.
+
+Question: Where can I find more tutorials on using AT&T Premier?
+Response: Check out other videos in the series for more detailed instructions on using AT&T Premier.
+
+Question: How do I schedule reports in AT&T Premier?
+Response: From the Reports page, click on the calendar icon next to the report name, then customize your report using the View by filter, Date range filter, and Report frequency filter. Choose your preferred file format and notification preference, then submit.
+
+Question: What options are available for report frequency in AT&T Premier?
+Response: You can choose from four options: one time, daily, weekly, and monthly. When choosing monthly, you can select the specific day to receive the report.
+
+Question: How can I customize which accounts to include in my report?
+Response: Use the View by filter to choose specific hierarchy levels, accounts, or wireless numbers.
+
+Question: What should I consider when scheduling reports for Billing FAN accounts?
+Response: Schedule reports for 13 to 14 days after the bill cycle close date.
+
+Question: What should I consider when scheduling reports for Reporting and Fulfillment FAN accounts?
+Response: Schedule reports for 10 to 11 days after the bill cycle close date.
+
+Question: How do I determine the type of account my organization has?
+Response: Contact your AT&T business representative for assistance in determining your account type.
+
+Question: Can I schedule reports directly from the report results page?
+Response: Yes, you can also schedule a report from the report results page.
+
+Question: What file formats can I choose for my scheduled reports?
+Response: You can choose your preferred file format when setting up your report schedule.
+
+Question: How do I set my notification preference for scheduled reports?
+Response: Set your notification preference during the report scheduling process under the notification settings.
+
+Question: Where can I find more help on scheduling reports in AT&T Premier?
+Response: Check out other tutorial videos in the series for more detailed instructions on using AT&T Premier.
+
+Question: How can filters be used in AT&T Premier reports?
+Response: Filters can be used to quickly find specific information in summary or detail reports by selecting from a list of provided filters or creating custom filters based on desired criteria.
+
+Question: How do I create a custom filter in AT&T Premier reports?
+Response: Click Edit without selecting a filter, name your report, select criteria like, users with 10GB or more data usage, and choose comparison operators and values. You can also add more complex criteria with and/or options.
+
+Question: Can I copy an existing filter when creating a new one?
+Response: Yes, you can copy an existing filter if you choose to when creating a new custom filter.
+
+Question: How do I name and select criteria for a custom filter?
+Response: Name your report, then select the criteria for filtering. For example, to find users with 10GB or more data usage, select (KB) kilobyte usage, use the comparison operator greater than or equal to, and set the value to 10 million kilobytes.
+
+Question: Can I share custom filters with others in my organization?
+Response: Yes, before saving your filter, you can choose to share it with others in your organization.
+
+Question: How do I apply a custom filter to a report?
+Response: Once created, you can apply the custom filter when running any relevant report.
+
+Question: Can I edit filters from the summary or details pages?
+Response: Yes, filters can be easily edited from the summary or details pages.
+
+Question: Where else can I create and edit custom filters in AT&T Premier?
+Response: You can create and edit custom filters on the setup tab.
+
+Question: What comparison operators can be used in custom filters?
+Response: Comparison operators such as greater than, less than, equal to, and not equal to can be used in custom filters.
+
+Question: Can I create more complex filters in AT&T Premier?
+Response: Yes, more complex filters can be created by using the and/or options to add additional criteria.
+
+Question: What should I do if my location doesn't have power and I need to open a trouble report with AT&T?
+Response: Do not open a trouble report with AT&T if your location doesn’t have power. Wait for power to be restored first, and AT&T services should be restored at that time.
+
+Question: How can I verify that my telecommunications equipment has power?
+Response: Look at the telecommunications equipment. If the lights are lit, you have power. If there are no lights, there is no power.
+
+Question: What are some common causes of power disruptions that could affect AT&T services?
+Response: Common causes include brownouts, construction work, and downed power lines.
+
+Question: Is AT&T responsible for providing commercial power to the equipment at the customer location?
+Response: No, even if the equipment at the customer location is provided by AT&T, AT&T is not responsible for providing commercial power to the equipment.
+
+Question: What should I look for on my telecommunications equipment to confirm it has power?
+Response: Check if the lights on the telecommunications equipment are lit. This indicates that the equipment has power.
+
+Question: What should I do if the lights on my telecommunications equipment are not lit?
+Response: If there are no lights, this means there is no power. Ensure that your location has power before opening a trouble report with AT&T.
+
+Question: What is the purpose of verifying power before opening a trouble report with AT&T?
+Response: Verifying power ensures that the issue is not due to a power outage, which needs to be resolved before AT&T services can be restored.
+
+Question: Can I open a trouble report with AT&T if the equipment has power but services are still down?
+Response: Yes, if the equipment has power and services are still down, you can open a trouble report with AT&T.
+
+Question: What should I do if I am unsure about the power status of my telecommunications equipment?
+Response: Check the equipment for lit lights. If you are still unsure, you may contact AT&T support for further assistance.
+
+Question: Are there any visual aids to help identify the power status of telecommunications equipment?
+Response: Yes, there are photos depicting common telecommunications equipment lights to help identify whether the equipment has power.
+
+Question: How can I contact AT&T for support with Secure Remote Access powered by Zscaler?
+Response: You can contact AT&T via the Managed Security Services (MSS) Operations Center. Ensure you have the necessary information provided on the help card before contacting.
+
+Question: What information should I have before contacting AT&T for support?
+Response: You need the following information: Name, Email Address, Phone, Best Time to Contact with time zone, Address (Access location), Number of users impacted, Issue summary, URL you're trying to access, and Output of ip.zscaler.com.
+
+Question: How do I access the AT&T Business Center for web portal support?
+Response: Log into the AT&T Business Center or AT&T Business Direct to submit changes to cloud proxy policy, security policy, or make self-service changes to the URL Whitelist and Blacklist, and view reports and insights.
+
+Question: What can I do through the Service Client portal?
+Response: You can make self-service changes to the URL Whitelist and Blacklist and view reporting and insights.
+
+Question: What is the toll-free number for AT&T Secure Remote Access customer support?
+Response: The toll-free number is (877) 677-2881. Enter your PIN, or select option 2 if you don’t have a PIN.
+
+Question: What are the support hours for AT&T Secure Remote Access customer support?
+Response: Support is available 24/7/365.
+
+Question: Where are AT&T's operations centers located?
+Response: AT&T’s operations centers are located globally.
+
+Question: What is the support availability for AT&T Wi-Fi customer care?
+Response: AT&T Wi-Fi customer care is available 24 hours a day, 7 days a week, 365 days a year.
+
+Question: What type of issues can the AT&T Wi-Fi Technical Service Center (TSC) help with?
+Response: The TSC can assist with operational, technical, customer portal, or billing questions.
+
+Question: What is the contact number for AT&T Wi-Fi guest and employee support?
+Response: The contact number for guest and employee support is (855) 288-9434.
+
+Question: What should I do if I feel my issue has not been handled properly by AT&T Wi-Fi support?
+Response: If you feel your issue has not been handled properly, ask to speak to a supervisor for further assistance.
+
+Question: What are the options when calling the AT&T Wi-Fi Services Helpdesk?
+Response: Press 1 if you are an employee. Press 2 if you are a guest.
+
+Question: Is the AT&T Wi-Fi Services Helpdesk available for both guests and employees?
+Response: Yes, the helpdesk provides support for both guests and employees.
+
+Question: How often is the AT&T Wi-Fi Services Helpdesk available?
+Response: The helpdesk is available 24x7x365.
+
+Question: What should I expect when calling AT&T Wi-Fi Enterprise Technical Support services?
+Response: For quality and training purposes, your call may be monitored or recorded.
+
+Question: What number should I call for basic care support for AT&T Wi-Fi services?
+Response: For basic care support, call (855) 288-9434.
+
+Question: What should I do if I need customer portal assistance for AT&T Wi-Fi services?
+Response: You can contact the Technical Service Center (TSC) 24/7 for assistance with the customer portal.
+
+Question: What is the support availability for AT&T Wi-Fi customer care with Enhanced Care?
+Response: AT&T Wi-Fi customer care with Enhanced Care is available 24 hours a day, 7 days a week, 365 days a year.
+
+Question: What type of issues can the AT&T Wi-Fi Technical Service Center (TSC) help with?
+Response: The TSC can assist with operational, technical, customer portal, or billing questions.
+
+Question: What is the contact number for AT&T Wi-Fi guest and employee support with Enhanced Care?
+Response: The contact number for guest and employee support with Enhanced Care is (888) 906-8598.
+
+Question: What should I do if I feel my issue has not been handled properly by AT&T Wi-Fi support?
+Response: If you feel your issue has not been handled properly, ask to speak to a supervisor for further assistance.
+
+Question: What are the options when calling the AT&T Wi-Fi Services Helpdesk for Enhanced Care?
+Response: Press 1 if you are an employee. Press 2 if you are a guest.
+
+Question: Is the AT&T Wi-Fi Services Helpdesk available for both guests and employees?
+Response: Yes, the helpdesk provides support for both guests and employees.
+
+Question: How often is the AT&T Wi-Fi Services Helpdesk available for Enhanced Care?
+Response: The helpdesk is available 24x7x365.
+
+Question: What should I expect when calling AT&T Wi-Fi Enterprise Technical Support services?
+Response: For quality and training purposes, your call may be monitored or recorded.
+
+Question: What number should I call for enhanced care support for AT&T Wi-Fi services?
+Response: For enhanced care support, call (888) 906-8598.
+
+Question: What should I do if I need customer portal assistance for AT&T Wi-Fi services with Enhanced Care?
+Response: You can contact the Technical Service Center (TSC) 24/7 for assistance with the customer portal.
+
+Question: What does the AT&T Integrated Service Experience (ISE) team do?
+Response: The ISE team handles the complexity of fragmented tools necessary to support different SD-WAN service components using AT&T’s management platform.
+
+Question: What is the international toll-free number for AT&T SD-WAN Service Assurance support?
+Response: The international toll-free number is 855.224.0382.
+
+Question: What are the key benefits of the AT&T SD-WAN Service Assurance support model?
+Response: Key benefits include a single point of contact, managed service support integration, 24x7 global incident coverage, consistent customer service experience, first contact resolution, prioritization of critical incidents, major outage communications, and mature workflows with automated interfaces.
+
+Question: How does the ISE team prioritize and handle critical incidents?
+Response: The ISE team focuses on first contact resolution, prioritization, and ownership of critical incidents.
+
+Question: What kind of incident coverage does AT&T SD-WAN support provide?
+Response: AT&T SD-WAN support provides 24x7 global incident coverage.
+
+Question: What is the purpose of the automated interfaces used by the ISE team?
+Response: Automated interfaces are used to manage and integrate different SD-WAN service components, ensuring efficient and consistent support.
+
+Question: How does the ISE team ensure a consistent customer service experience?
+Response: By providing a single point of contact and accountability, as well as mature workflows and automated interfaces, the ISE team ensures a consistent customer service experience.
+
+Question: What kind of communication can customers expect during major outages?
+Response: Customers can expect consistent and clear major outage communications from the ISE team.
+
+Question: What is EVA and what does it do?
+Response: EVA (Enterprise Virtual Assistant) is a chatbot designed to provide real-time updates on maintenance tickets with AT&T Business Services. It offers answers without waiting or phone calls, and assists with ticket status, technician arrival times, major outage checks, and more.
+
+Question: How can I access EVA?
+Response: EVA can be accessed through the Express Ticketing, Business Center, and Business Direct portals.
+
+Question: What kind of information does EVA provide?
+Response: EVA provides information on ticket status, major outage impacts, power verification, and authorization for intrusive testing or technician dispatch.
+
+Question: How does EVA help during major outages?
+Response: EVA proactively searches for major outages affecting your service and informs you if your trouble is associated with it, enabling quicker service restoration.
+
+Question: Can EVA assist with escalating a ticket?
+Response: Yes, EVA can assist with escalating a ticket if necessary.
+
+Question: What permissions might EVA ask for during troubleshooting?
+Response: EVA may request authorization for intrusive testing, power validation, and technician dispatch.
+
+Question: How does EVA help with technician dispatch information?
+Response: EVA provides the estimated arrival time and a map link showing the technician's current location relative to your site.
+
+Question: Why is verifying power important and how does EVA help?
+Response: Verifying power is crucial for rapid ticket progression. EVA helps you quickly verify power at your site, ensuring prompt restoration.
+
+Question: How does EVA notify you about outstanding items needing authorization?
+Response: EVA detects and prompts you for necessary authorizations such as testing permissions and technician dispatch approvals.
+
+Question: What items are included in the 5G gateway setup box?
+Response: The setup box includes a 5G Gateway with a preinstalled SIM card, a power supply unit, a quick start guide, and a safety information guide.
+
+Question: What should I do before setting up my 5G gateway?
+Response: Make sure to activate your service before setting up your 5G gateway.
+
+Question: Where should I place my 5G gateway for the best signal?
+Response: Place the 5G gateway on a shelf near a window for the best signal.
+
+Question: How do I power up the 5G gateway?
+Response: Plug one end of the power supply into the gateway and the other end into a power outlet.
+
+Question: How long does it take for the 5G gateway to connect to the AT&T mobile network?
+Response: It can take up to three minutes for the gateway to connect to the AT&T mobile network.
+
+Question: What do the different LED status light colors indicate on the 5G gateway?
+Response: Green: Strong signal, Blue: Fair signal, Red: Weak signal or off, indicating a need to change the location for a better signal
+
+Question: What should I do if the LED status lights are red or off?
+Response: If the LED status lights are red or off, change the gateway's location until you get a better signal.
+
+Question: How can I track my current and past wireless or internet orders?
+Response: You can track your orders by going to your order history and signing in, or by visiting My orders and entering your Order number and ZIP Code.
+
+Question: How do I check my wireless order details using the myAT&T app?
+Response: Sign in to the myAT&T app to check your wireless order details. You will also receive a confirmation email when your order ships.
+
+Question: When do preordered devices ship?
+Response: Preordered devices ship on a first-come, first-serve basis.
+
+Question: When do back-ordered devices ship?
+Response: Back-ordered devices ship when they become available.
+
+Question: What should I do if I think my device was lost during shipment?
+Response: Submit a ticket to request a refund after ensuring you've received a delivery notice and checked all possible delivery areas.
+
+Question: How can I check the status of my internet order?
+Response: Check the AT&T Smart Home Manager app for internet order info. You'll receive a confirmation email when your order ships.
+
+Question: What app should I download to prepare for an internet order appointment?
+Response: Download the AT&T Smart Home Manager app from the Apple App Store or Google Play store. This app helps you track your order and prepare for your appointment.
+
+Question: Where can I find the order number and ZIP Code to track my order?
+Response: The order number and ZIP Code can be found in your order confirmation email.
+
+Question: What should I do if I did not receive a confirmation email for my order?
+Response: Check your spam or junk email folder. If you still can't find it, contact AT&T support for assistance.
+
+Question: Can I use the AT&T Smart Home Manager app to manage my internet setup?
+Response: Yes, the AT&T Smart Home Manager app can be used to track your order, prepare for an appointment, and manage your internet setup.
+
+Question: How do I access my order history on AT&T's website?
+Response: Go to your order history on the AT&T website and sign in to view your current and past orders.
+
+Question: What information do I need to provide when checking my order status through My orders?
+Response: You need to provide your Order number and ZIP Code when checking your order status through My orders.
+
+Question: How long does it take for a preorder to ship?
+Response: Preordered devices ship on a first-come, first-serve basis, but the exact timing can vary based on demand and availability.
+
+Question: What steps should I follow if my device is back-ordered?
+Response: You should wait for an email notification from AT&T indicating that your device has become available and has been shipped.
+
+Question: What is the Affordable Connectivity Program (ACP)?
+Response: The ACP is a federal program that provided qualifying households a benefit of up to $30 per month for eligible AT&T wireless or internet services, and up to $75 per month for households on Tribal lands.
+
+Question: How much benefit did the ACP provide to eligible households?
+Response: The ACP provided up to $30 per month for eligible households and up to $75 per month for households on Tribal lands.
+
+Question: Why is the ACP ending?
+Response: The ACP is ending due to a lack of additional federal funding.
+
+Question: When will the ACP benefit end?
+Response: The last month you will receive the full ACP benefit is April 2024.
+
+Question: When the ACP ends, the benefit will be removed from your bill.
+Response: When the ACP ends, the benefit will be removed from your bill.
+
+Question: Where can I find more affordable options with AT&T after the ACP ends?
+Response: Visit att.com/acp for more affordable options with AT&T.
+
+Question: Who was eligible for the ACP benefit?
+Response: Qualifying households based on income or participation in certain federal assistance programs were eligible for the ACP benefit.
+
+Question: How can I find out if I qualify for other AT&T discounts?
+Response: Check AT&T’s official website or contact customer support for information on other available discounts and programs.
+
+Question: Will I be notified when the ACP benefit is removed from my bill?
+Response: Yes, you should receive notification regarding the removal of the ACP benefit from your bill.
+
+Question: What alternatives are available if I am affected by the end of the ACP?
+Response: AT&T may offer other affordable plans or discounts; visit att.com/acp or contact AT&T customer support for more details.
+
+Question: Is the Affordable Connectivity Program winding down?
+Response: Current funding for the ACP is expected to run out, with April 2024 being the last month of full benefits. Once the program ends, enrolled households will no longer receive program benefits.
+
+Question: What happens to my bill if ACP ends?
+Response: The ACP benefit will be removed on your bill period date in May. This means you’ll see an increase in your bill, and all standard rates, terms, and conditions for your service will then apply. AT&T will keep you informed about the future of ACP and any upcoming changes to your account.
+
+Question: Is there any action I can take to renew the ACP?
+Response: You can contact members of Congress to help make sure the ACP returns. Visit KeepAmericaConnected.com/ACP.
+
+Question: How can I upgrade, downgrade, or combine my AT&T services?
+Response: You can upgrade, downgrade, or combine your services by logging into your myAT&T account, selecting the account you want to change, and following the prompts under "Change or manage my plan."
+
+Question: What is the myAT&T app, and how can it help me manage my account?
+Response: The myAT&T app allows you to manage your account on the go. You can download it to make service changes, check your plan details, and more. Text and data rates may apply.
+
+Question: How do I access my AT&T account overview?
+Response: Log into your myAT&T account and go to the account overview. If you have multiple accounts, select the one you want to manage.
+
+Question: What should I do if I want to upgrade to AT&T Fiber or other high-speed internet options?
+Response: Explore AT&T’s best internet service plans and see what’s available in your area. You can check availability and upgrade your service on the AT&T website.
+
+Question: What options are available for AT&T home phone services?
+Response: AT&T offers traditional landline service with unlimited local and long-distance plans, and home-phone service over the internet. You can change your home-phone calling plan or features online.
+
+Question: What should I do if I want to downgrade my DSL service?
+Response: Contact AT&T customer service to downgrade your DSL service.
+
+Question: How can I compare AT&T wireless plans?
+Response: Visit the AT&T website to learn how to compare wireless plans and find the best option for you.
+
+Question: Can I combine multiple AT&T services to save money?
+Response: Yes, you can combine multiple AT&T services to find savings. Check for available offers and eligibility in your area.
+
+Question: Are plans subject to availability in my area?
+Response: Yes, plans are subject to availability. Check the AT&T website to see what plans are available in your area.
+
+Question: How do I check offer eligibility for combining services?
+Response: You can check offer eligibility for combining services on the AT&T website by entering your location information.
+
+Question: Where can I get instructions to set up my All-Fi Hub?
+Response: Call us at 800.288.2020
+
+Question: What should I do first to set up my AT&T All-Fi Hub?
+Response: First, download the AT&T Smart Home Manager app to your smart device by scanning the QR code on your install box or visiting att.com/smarthomemanager.
+
+Question: Where is the best location to place my All-Fi Hub?
+Response: Place your All-Fi Hub on the top floor of your home, near a window, away from direct sunlight and large appliances that may block the signal.
+
+Question: How do I connect the power supply to my All-Fi Hub?
+Response: Plug one end of the power supply into the All-Fi Hub and the other end into a power outlet. A green light at the power jack indicates it is powering up.
+
+Question: How do I know if my All-Fi Hub is receiving a strong signal?
+Response: Check the LED status lights: green indicates a strong signal, blue indicates a fair signal, and red indicates a weak signal. You can also use the Smart Home Manager app to check signal quality.
+
+Question: What should I do if the signal is weak at my All-Fi Hub’s location?
+Response: Move the All-Fi Hub to a new location and use the Smart Home Manager app to perform another signal quality check.
+
+Question: How can I personalize my network name and password?
+Response: Follow the prompts in the Smart Home Manager app to change your Wi-Fi name and password. You can also scan the QR code on the back of the Hub to connect wireless devices.
+
+Question: What is the WPS button on the All-Fi Hub used for?
+Response: The WPS button allows you to wirelessly connect devices. Press and hold it for 10 seconds to run a signal quality check, or press and release quickly to connect WPS-enabled devices.
+
+Question: How can I check the download and upload speeds of my All-Fi Hub?
+Response: The Smart Home Manager app and the front display of the All-Fi Hub will show the download and upload speeds after a signal quality check.
+
+Question: How do I run a signal quality check in the future?
+Response: Press and hold the WPS button on the back of your All-Fi Hub for at least 10 seconds to run a signal quality check.
+
+Question: What should I do if I have trouble setting up my All-Fi Hub?
+Response: Select the "I need help" link in the Smart Home Manager app to get the contact number for specially trained agents, or visit att.com/AllFiHub-InternetAir for online help. You can also call 1-800-288-2020 and say "Help with Internet Air."
+
+Question: What can I do if my Wi-Fi devices are not connecting?
+Response: Use the Message Center in the Smart Home Manager app by selecting the three-dot button and typing in "Connecting devices" for help.
+
+Question: How do I access online help for my All-Fi equipment?
+Response: Visit att.com/AllFiHub-InternetAir for online help with your All-Fi equipment.
+
+Question: How do I contact AT&T for general help with my service or account?
+Response: Head to att.com/support for general help with your service or account.
+
+Question: What do I need to get started with setting up AT&T Internet?
+Response: You need the AT&T Smart Home Manager app, which can be downloaded from the Apple App Store or Google Play Store, and an AT&T user ID.
+
+Question: How do I set up an AT&T user ID if I don’t have one?
+Response: You can set up an AT&T user ID in the Smart Home Manager app. You won't be able to access the internet until you set it up.
+
+Question: What is the AT&T Smart Home Manager app used for?
+Response: The Smart Home Manager app guides you through unpacking your equipment, connecting to the AT&T network, and activating your service. It also helps connect devices to your network and check Wi-Fi coverage.
+
+Question: Can I set up AT&T Internet without waiting for a technician?
+Response: Yes, AT&T customers can set up their Internet service without waiting for a technician by following the simple instructions in the Smart Home Manager app.
+
+Question: How long does it take to set up AT&T Internet using the Smart Home Manager app?
+Response: The setup process takes about 30 minutes.
+
+Question: Do I need any tools or technical knowledge to set up AT&T Internet?
+Response: No tools or technical know-how are necessary to set up AT&T Internet.
+
+Question: Where can I download the AT&T Smart Home Manager app?
+Response: You can download the app from the Apple App Store or Google Play Store.
+
+Question: What should I do once I have the Smart Home Manager app and my AT&T user ID?
+Response: Sign in to the Smart Home Manager app, which will take you through each step to unpack your equipment, connect to the AT&T network, and activate your service.
+
+Question: How can the Smart Home Manager app help after setting up my internet?
+Response: The app can help connect devices to your network and check your Wi-Fi coverage.
+
+Question: What if I encounter issues during the setup process?
+Response: The Smart Home Manager app provides step-by-step instructions and support to help you complete the setup process smoothly.
+
+Question: What factors affect my internet service speed from AT&T?
+Response: Many factors affect your internet service speed, including the wiring in your location, Wi-Fi connections, the number of connected devices, network traffic, and the performance of websites and ISPs.
+
+Question: How does data travel to and from my location when using AT&T internet?
+Response: Data travels through wiring or Wi-Fi in your location, between devices and your modem or gateway, through the network interface device (NID) or cell tower, and through AT&T and other ISP networks to the internet.
+
+Question: What impacts the speed I experience on my devices?
+Response: The number of devices connected to your network and their activities impact the speed you may experience.
+
+Question: How is internet speed measured?
+Response: Internet speed is measured in kilobits (Kbps), megabits (Mbps), or gigabits (Gbps) per second.
+
+Question: Do all applications need high internet speeds to work efficiently?
+Response: No, basic applications like sending short emails or basic web browsing do not need high speeds, while activities like transferring large files or streaming high-definition videos perform better with higher speeds.
+
+Question: What types of activities might not work well with lower internet speeds?
+Response: Real-time or high-bandwidth activities like streaming video or video conferencing may not work well with lower internet speeds.
+
+Question: How does the AT&T Smart Home Manager app help with internet setup?
+Response: The AT&T Smart Home Manager app guides you through the setup process, helps connect devices to your network, and checks your Wi-Fi coverage.
+
+Question: Can the number of devices connected to my network affect internet speed?
+Response: Yes, the speed is shared among all connected devices, so the number and activity of devices can impact your internet speed.
+
+Question: What should I do if my internet speed is not sufficient for my needs?
+Response: Consider upgrading to a higher-speed service plan that better suits your needs for activities like streaming, video conferencing, or transferring large files.
+
+Question: How can I check the internet speed I am receiving?
+Response: You can use the AT&T Smart Home Manager app or various online speed test tools to check the speed of your internet connection.
+
+Question: What types of networks does AT&T use to deliver internet?
+Response: AT&T delivers internet through copper wiring (DSL), a hybrid fiber and copper network (high-speed broadband), a 100% fiber network (AT&T Fiber), and the AT&T wireless network (4G LTE and 5G) for Internet Air and Fixed Wireless Internet.
+
+Question: What factors inside my home can affect my internet speed?
+Response: Factors include the age of wiring, distance between the device and gateway, age and type of gateway/router, number of connected devices, and whether the connection is wired or Wi-Fi.
+
+Question: How do wired and Wi-Fi connections differ in performance?
+Response: Wired connections using Ethernet cables generally provide more consistent and faster speeds compared to Wi-Fi connections, which can be affected by distance from the gateway, interference, and the number of connected devices.
+
+Question: What type of Ethernet cable is recommended for the best performance?
+Response: For speeds above 1Gbps, use at least a Cat6 cable and an Ethernet port rated for multi-Gbps speeds.
+
+Question: How do multiple devices affect my internet speed?
+Response: The internet speed is shared among all connected devices, so having multiple devices connected and active simultaneously can slow down the speed experienced on each device.
+
+Question: Why might my device not achieve the maximum internet speed available?
+Response: The maximum speed is limited by the device's capability. For instance, an older device that supports only 11Mbps will not achieve higher speeds even if you have a faster internet plan.
+
+Question: How can using TV services affect my internet speed?
+Response: Using TV and internet services simultaneously can consume more bandwidth, especially when watching multiple HD TV shows while performing heavy data tasks, leading to reduced internet speeds.
+
+Question: Why might websites not deliver the same speeds as my internet service?
+Response: Websites may have lower network speeds, limited server capacity, use other ISPs for content delivery, or experience peak hour traffic, all of which can affect the speeds you experience.
+
+Question: What is protocol overhead, and how does it affect internet speed?
+Response: Protocol overhead refers to the control and signaling data required for reliable transmission, such as IP and TCP overheads, which reduce the effective internet speed and speed test results.
+
+Question: What should I do if my internet speed is not sufficient for my needs?
+Response: Consider upgrading to a higher-speed service plan, optimize your home network setup, and ensure your devices and equipment are up-to-date and capable of supporting higher speeds.
+
+Question: What are download and upload internet speeds?
+Response: Each internet plan has minimum download and upload speeds. Learn what your expected ranges are at AT&T Speed Tiers. Download speed shows how quickly data travels from the internet through your Wi-Fi  gateway or All-Fi  Hub to the device you’re using. Upload speed is the rate you send data from your device back through your gateway or hub and back out to the internet.
+
+Question: How much internet speed do I need?
+Response: The amount of speed you need varies based on the activities you do. To find your optimal download speed range, visit the AT&T Download Speed Calculator.
+
+Question: What internet plans are available?
+Response: AT&T Fiber® and other high speed internet service availability varies by location. Each service plan has estimated download and upload speeds.
+
+Question: How do I test my internet speed?
+Response: To test your current speed, check out the AT&T internet speed test.
+
+Question: How can I improve my internet speed?
+Response: There are several ways to improve home network speed for your devices. Learn ways to maximize to your home network or optimize your speed.
+
+Question: Can I upgrade my internet plan to a faster speed?
+Response: If you’re new to AT&T or want to upgrade, you can see if AT&T Fiber or other internet options are available in your area. Learn how to upgrade your internet plan.
+
+Question: How are internet speeds measured?
+Response: Internet speeds are measured in megabits per second (Mbps) and gigabits per second (Gbps).
+
+Question: What is the AT&T speed test used for?
+Response: The AT&T speed test measures the internet speed between your devices and the internet using AT&T servers closest to you. It checks download and upload speeds.
+
+Question: What are the two key measurements checked by the AT&T speed test?
+Response: The two key measurements are download speed data sent from the internet to your device and upload speed data sent from your device to the internet.
+
+Question: How long does the AT&T speed test take to complete?
+Response: The speed test takes less than a minute to complete.
+
+Question: How can I test the internet speed of a specific device?
+Response: Go to the device you want to test, disconnect all other devices on your network, ensure a clear line of sight to your Wi-Fi gateway or All-Fi Hub, disable interfering devices, close apps on the testing device, and run the AT&T internet speed test.
+
+Question: What should I do before running the speed test on a Wi-Fi device?
+Response: Ensure the device has a clear line of sight about 10 feet from the gateway or All-Fi Hub, disable interfering devices, and close apps on the testing device.
+
+Question: Why should I disconnect other devices on my network before running the speed test?
+Response: Disconnecting other devices helps avoid Wi-Fi congestion, ensuring a more accurate speed test result.
+
+Question: What standards should a wireless device use to achieve faster speeds?
+Response: Devices should use newer standards like 802.11ac or 802.11ax (Wi-Fi 5 or Wi-Fi 6) for faster speeds. Older standards like 802.11b or 802.11g cannot achieve higher speeds.
+
+Question: What types of devices can be tested using the AT&T speed test?
+Response: You can test computers, smartphones, tablets, game consoles, smart TVs, and other internet-connected devices.
+
+Question: How can household devices create wireless interference during a speed test?
+Response: Devices like Bluetooth devices, wireless phones, baby monitors, and other wireless video devices can create interference, affecting speed test results.
+
+Question: Where can I learn more about how speed test results relate to my AT&T Internet service speed?
+Response: You can learn more about internet speeds and how they relate to your service on the AT&T website.
+
+Question: Can all my devices get the same speeds?
+Response: Since all devices on your home network share your internet (bandwidth), you can’t choose which devices get faster speeds. But you can increase the speed for the devices you’re using by disconnecting those you’re not using.
+
+Question: What types of devices impact my home network internet speeds?
+Response: Some everyday devices like your smartphone, tablets, and smart TVs may slow your internet.
+
+Question: Why are my wired and Wi-Fi speeds different?
+Response: Wired connections provide faster speeds than Wi-Fi connections for two reasons: Wired (Ethernet) and Wi-Fi connections manage and transmit data differently, Wi-Fi connections may need to re-transmit data
+
+Question: How can I optimize the location and position of my Wi-Fi gateway for better speeds?
+Response: Place your gateway in a central location, upright on an elevated surface like a desk or shelf. Ensure the front of the gateway is unobstructed and faces the area where most devices are used. Keep it at least 10 feet away from cordless phones, Bluetooth devices, and microwave ovens.
+
+Question: What should I avoid when positioning my Wi-Fi gateway?
+Response: Avoid placing the gateway near heat sources, moisture, excessive dust, extreme cold, or large metal objects.
+
+Question: What can I do if my Wi-Fi signal is still weak despite optimal placement of the gateway?
+Response: Consider installing a Wi-Fi extender to help boost the signal.
+
+Question: Why should I connect stationary devices directly to the gateway?
+Response: Direct wired connections provide the fastest speeds and free up Wi-Fi bandwidth for other devices.
+
+Question: Which devices are recommended to connect directly to the gateway using Ethernet cables?
+Response: Connect PCs, Blu-Ray DVD players, game consoles, printers, and smart TVs directly to the gateway.
+
+Question: How can reducing the number of connected devices improve Wi-Fi speeds?
+Response: Fewer connected devices reduce network congestion, leading to faster speeds for each device. Turn off devices not in use and connect TVs and computers directly to the gateway.
+
+Question: What does broadcasting in a single Wi-Fi mode mean, and why is it beneficial?
+Response: Broadcasting in a single Wi-Fi mode (e.g., n or ac) can enhance performance by reducing compatibility overhead. Set your gateway to the highest mode supported by all your devices.
+
+Question: What should I do if some devices don’t connect after setting the gateway to a single Wi-Fi mode?
+Response: Change the mode back to b/g/n/ac or try to upgrade the non-connecting devices to a newer Wi-Fi standard.
+
+Question: How can I upgrade the Wi-Fi capability of older PCs and laptops?
+Response: Upgrade their network cards to 802.11ac or purchase a Wi-Fi 802.11ac USB adapter from electronics stores or the AT&T online accessory store.
+
+Question: Why is it important to update firmware and drivers on Wi-Fi-enabled devices?
+Response: Updating firmware and drivers ensures optimal performance and compatibility. Visit your network card or device manufacturer’s website to check for the latest updates.
+
+Question: How do I update the firmware and drivers for my network adapter?
+Response: Go to your network card or device manufacturer’s website, look for the Support or Driver link, and follow the instructions to download and install the latest updates.
+
+Question: What impact do background apps on connected devices have on Wi-Fi speeds?
+Response: Background apps can consume bandwidth and slow down your network. Close apps on devices not in use to free up bandwidth.
+
+Question: What operating systems are currently supported by AT&T?
+Response: AT&T supports Windows 10 or later and Mac OS X or later.
+
+Question: Which internet browsers work best with AT&T's website?
+Response: The website works best with the two most recent versions of Mozilla Firefox, Google Chrome, Microsoft Edge, and Safari for Mac.
+
+Question: Why is it important to use the most recent version of your internet browser?
+Response: Newer browser versions have updated tools and security features that protect you and help you get the most from AT&T’s website.
+
+Question: What should I do to ensure optimal performance and security when using AT&T's website?
+Response: Make sure you are using the most recent version of your internet browser.
+
+Question: How can I find out if my current browser version is supported by AT&T's website?
+Response: Check if your browser is one of the two most recent versions of Mozilla Firefox, Google Chrome, Microsoft Edge, or Safari for Mac.
+
+Question: What are the advantages of using the most recent browser versions?
+Response: Advantages include improved security, better performance, and access to the latest tools and features that enhance your browsing experience on AT&T’s website.
+
+Question: How often should I update my internet browser?
+Response: Regularly check for and install updates to ensure you have the most recent version.
+
+Question: What might happen if I use an outdated browser version with AT&T's website?
+Response: You may experience reduced performance, lack of access to certain features, and potential security vulnerabilities.
+
+Question: How do I update my internet browser to the latest version?
+Response: Visit the official website of your browser (Mozilla Firefox, Google Chrome, Microsoft Edge, or Safari for Mac) and follow the instructions to download and install the latest version.
+
+Question: What browsers are supported for using AT&T email?
+Response: The two most recent versions of Mozilla Firefox, Microsoft Edge, Google Chrome, and Safari for Mac are supported.
+
+Question: How can I download a supported browser for AT&T email?
+Response: Use the following links to download a supported browser: Mozilla Firefox, Google Chrome, Microsoft Edge, Safari for Mac
+
+Question: Why does AT&T email no longer support older browsers?
+Response: AT&T email only supports browsers that stay current with the newest security updates and advances to deliver the best and safest mail experience.
+
+Question: Which browsers are not supported by AT&T email?
+Response: AT&T email does not support Safari 5 and earlier or any version of Internet Explorer.
+
+Question: What can I do if I can't upgrade my browser?
+Response: If you can't upgrade your browser, you will be redirected to the basic mail version of AT&T email, which allows you to access, view, and send email without advanced features.
+
+Question: How do I switch back to the full version of AT&T Yahoo! Mail?
+Response: From a supported browser, sign in to basic mail and select "Switch to the newest AT&T Yahoo! Mail" from the upper-right corner.
+
+Question: What features will I miss using the basic mail version of AT&T email?
+Response: The basic mail version does not include many of the advanced features and tools available in the full version of AT&T Yahoo! Mail.
+
+Question: How often should I update my browser to ensure compatibility with AT&T email?
+Response: Regularly check for and install updates to ensure you are using one of the two most recent versions of your browser.
+
+Question: What are the benefits of using a supported browser for AT&T email?
+Response: Supported browsers provide better security, performance, and access to the full range of features available in AT&T Yahoo! Mail.
+
+Question: What is an IP address and why is it important?
+Response: An IP (Internet Protocol) address is a unique identifier for a device on the internet, allowing it to engage with other devices.
+
+Question: Why was IPv6 developed?
+Response: IPv6 was developed to replace IPv4 due to the limited number of IPv4 addresses (around 4 billion) and to support future internet growth with nearly unlimited addresses.
+
+Question: Will IPv4 and IPv6 networks co-exist?
+Response: Yes, IPv4 and IPv6 networks are expected to co-exist for many years.
+
+Question: What is Dual Stack in the context of IPv6 transition?
+Response: Dual Stack allows both IPv4 and IPv6 to co-exist on the same devices and networks.
+
+Question: What is Tunneling with regard to IPv6?
+Response: Tunneling allows IPv6 packets to be sent over IPv4 infrastructure and vice-versa.
+
+Question: How does Translation work in the context of IPv6 and IPv4?
+Response: Translation allows IPv6-only devices to communicate with IPv4-only devices.
+
+Question: How will the transition to IPv6 affect my AT&T internet service?
+Response: The slow rollout of IPv6 will not impact your AT&T internet service. You’ll still access your email, favorite websites, and other content as usual for quite some time.
+
+Question: What should I do if I need to access IPv6-only content?
+Response: Ensure your equipment is IPv6-compatible and ready for IPv6-only content.
+
+Question: What AT&T internet equipment is IPv6 capable?
+Response: IPv6-capable equipment includes models from Humax/Nokia, Arris, Motorola, Pace, 2Wire, and Netgear. Check the specific model list for compatibility.
+
+Question: What should I do if I'm using third-party networking equipment?
+Response: Contact the manufacturer to find out if the third-party router, repeater, switch, or access point is IPv6-compatible.
+
+Question: Do I need any extra setup to use IPv6 on AT&T’s network with compatible equipment?
+Response: Most users with IPv6-compatible equipment won't need any extra setup to use IPv6 on AT&T’s network.
+
+Question: When did AT&T start supporting the transition to IPv6?
+Response: AT&T began upgrading its network and enabling IPv6-capable gateways with firmware updates starting in 2011.
+
+Question: How can I manage the amount of data my devices use?
+Response: Learn how new devices and apps use the internet, manage usage settings, close unused programs, turn off unused devices, keep security software updated, and install parental controls.
+
+Question: How do computers contribute to internet data usage?
+Response: Web browsing, downloading documents, and ads with audio or video increase data usage. Streaming videos and music use a lot of data, especially in HD.
+
+Question: How can I reduce data usage while streaming videos?
+Response: Select SD playback instead of HD, especially on smaller screens.
+
+Question: How does email affect data usage?
+Response: Basic emails use little data, but emails with large attachments like photos or videos use more data.
+
+Question: What should I consider about game consoles and data usage?
+Response: Some games require more data due to complex video and audio. Review game controls, close web browsers and streaming services when not in use.
+
+Question: How can I manage data usage during video chats?
+Response: Limit the size and resolution of video during chats to reduce data usage.
+
+Question: What activities on tablets and smartphones use home Wi-Fi data?
+Response: Operating system updates, downloading apps, internet browsing, streaming videos, playing games, reading emails, using social media, and syncing data.
+
+Question: How can I control data usage on tablets and smartphones?
+Response: Adjust settings to allow only critical updates, turn off live updates for apps, limit sync activities, and reduce social media updates.
+
+Question: What other devices might use internet data in my home?
+Response: Smart TVs, media players, security systems, and other smart devices that connect via Ethernet or Wi-Fi.
+
+Question: How can I estimate and monitor my internet data usage?
+Response: Use the internet data calculator to estimate usage and check past and current data usage through your internet service provider.
+
+Question: What are the data allowances for AT&T home internet plans?
+Response: Data allowances include 150GB per month for DSL, 350GB per month for Fixed Wireless Internet, 1.5TB per month for AT&T Internet speed tiers 768KB through 75MB, and unlimited data for Internet 100 or higher, AT&T Internet Air, or plans with certain conditions.
+
+Question: What happens if I exceed my data allowance?
+Response: Additional data is added in 50GB increments, costing $10 per 50GB. The maximum overage charge is $100 per bill period for AT&T Internet or $200 for DSL and Fixed Wireless Internet.
+
+Question: How can I estimate my future data usage?
+Response: Use the internet data calculator provided by AT&T to estimate future data usage.
+
+Question: What tasks contribute to data usage?
+Response: Tasks include software updates, email use, social media posts, and other internet activities. Usage varies based on apps and content accessed.
+
+Question: How often is data usage updated on my account?
+Response: Usage data is pulled from the network every four hours for most accounts, and at 15-minute intervals if you use more data routinely.
+
+Question: Why might I not be able to see my data usage at the start of a new billing period?
+Response: Usage info may not be available until later in the day on the first day of a new bill period due to data updates.
+
+Question: How accurate is AT&T's data measurement system?
+Response: Trained and specialized AT&T lab engineers regularly check the accuracy of the system.
+
+Question: How is a gigabyte (GB) defined in terms of data measurement?
+Response: A gigabyte is 1,073,741,824 bytes, 1,048,576 kilobytes (KB), or 1,024 megabytes (MB).
+
+Question: Can you give examples of data usage for common activities?
+Response: Sending 50,000 emails with no attachment or watching an 80-minute SD movie each use about 1GB. Watching 20 minutes of an HD movie also uses about 1GB.
+
+Question: How does the type of activity affect data usage?
+Response: Data-rich activities like streaming video use more data than activities like sending emails, regardless of the time spent online.
+
+Question: What should I do if my internet usage exceeds the data allowance frequently?
+Response: Consider upgrading to a plan with a higher data allowance or unlimited data to avoid additional charges.
+
+Question: Can I use the data tracker if I have DSL?
+Response: If you have DSL and system limitations prevent measuring your data use, you won’t be charged for exceeding your limit.
+
+Question: What activities should I be mindful of to manage my data usage?
+Response: Be aware of streaming video, downloading large files, frequent software updates, and multiple devices accessing the internet simultaneously.
+
+Question: How do I find my current internet speed tier or plan name?
+Response: First Sign in to myAT&T. Then Find and select one of these to see your internet speed tier: My Internet, My DSL Internet, My Fixed Wireless Internet
+
+Question: How do I check my data usage for this bill period?
+Response: To see how much data you’ve used: Go to your myAT&T account overview. Sign in, if  required. Scroll to My Internet, then select See usage details. You'll see your current usage. Once you know how much data was used, you can estimate future usage with the Internet Data Calculator.
+
+Question: How do I know if I’ve gone over, or am about to go over, my limit?
+Response: We'll send seven notices to your primary email address before extra charges impact your bill. We’ll send notices at 100% usage in the first month, and 65%, 90%, and 100% usage after that. If you don't get a notice from AT&T, there won’t be any monthly overage charges. FYI: We’ll send a letter by U.S. mail if we can’t reach you by email or don’t have your email address. Learn how to check your internet usage
+
+Question: When will I see usage charges on my bill if I go over my data limit?
+Response: We base your usage measurement on your billing date. If you incur usage charges, they’ll be on your AT&T bill after you use the data. It can take one to two bill periods for charges to show up. If you go over your monthly data limit a third time, you’ll most likely see charges for the additional data on the next month’s bill.
+
+Question: Can anyone who doesn’t live in my home affect my data usage?
+Response: It depends. Our Wi-Fi gateways are secured by default. You may have another gateway or router that isn’t secure. If so, someone with a Wi-Fi-capable device could access your home network. They could use your high-speed internet and impact your usage. Be sure to always secure your home network.
+
+Question: Does using wireless TV receivers count against my monthly data allowance?
+Response: No, watching standard video through a wireless receiver doesn’t count as data use. (This includes U-verse TV or DIRECTV receivers.) You will use data, however, for pay-per-view videos, software updates, and DVR scheduling.
+
+Question: Will using AT&T apps count against my data allowance?
+Response: Yes, using some TV, mobile, tablet, and wearable applications may use data.
+
+Question: Does using a streaming service count against my data allowance?
+Response: Yes, if it’s connected to your home network. Streaming over your home internet, whether wired or Wi-Fi, counts against your allowance.
+
+Question: Will using SamKnows count against my data allowance?
+Response: If you’re part of the SamKnows / FCC program, running speed tests may impact your usage. Plus, other speed test sites may impact how much home internet data you use.
+
+Question: What does a green or yellow notification light on my All-Fi Hub mean?
+Response: A green or yellow light appears during setup, device pairing, or running a speed test. Check your hub display for additional details.
+
+Question: What should I do if my All-Fi Hub's notification light is solid red?
+Response: A solid red light indicates an error. Check the display for an error code and refer to the All-Fi Hub status lights (PDF, 313KB) or Error codes FAQ for a fix.
+
+Question: What does it mean if the notification light is off but the clock is displayed during setup?
+Response: Ensure you have completed your registration and setup using the Smart Home Manager.
+
+Question: What does it mean if the notification light is off with the clock displayed?
+Response: This indicates that your hub is working correctly.
+
+Question: What does a blinking green WPS LED on the back of the hub indicate?
+Response: The blinking green light means the hub is pairing with a device or restarting after a factory reset.
+
+Question: What does a blinking red WPS LED mean?
+Response: A blinking red light indicates the hub is restarting or has too many devices trying to pair.
+
+Question: What does a solid red WPS LED indicate?
+Response: A solid red light means WPS pairing failed. You can try pairing again or connect with your Wi-Fi name and password.
+
+Question: How do I check for error codes on my All-Fi Hub?
+Response: Look at the display on the hub for the error code and refer to the All-Fi Hub status lights (PDF, 313KB) or Error codes FAQ for troubleshooting steps.
+
+Question: What are the first steps if my All-Fi Hub is not working correctly?
+Response: Check the notification light and display for any error codes, then refer to the troubleshooting guides provided by AT&T.
+
+Question: How can I restart the pairing process if WPS pairing fails?
+Response: You can try pairing again using the WPS button or manually connect your device with the Wi-Fi name and password.
+
+Question: Why should I customize the device access code for my Wi-Fi gateway?
+Response: Customizing the access code prevents unwanted users on your network from locking you out or granting themselves privileges.
+
+Question: What should I do if someone changes my access code and I get locked out?
+Response: Press and hold the Reset button on your device to restore the access code to the factory default settings.
+
+Question: How can I update my device access code?
+Response: You can update your access code from a device connected to your network through the gateway settings.
+
+Question: What happens when I reset my device to factory default settings?
+Response: Resetting to factory default settings will restore the original access code and erase any custom settings you have made.
+
+Question: Where can I find the Reset button on my Wi-Fi gateway?
+Response: The Reset button is typically located on the back or bottom of your Wi-Fi gateway device.
+
+Question: How long should I press the Reset button to restore factory settings?
+Response: Hold the Reset button for about 10 seconds to restore factory default settings.
+
+Question: Can I update the access code using any device connected to my network?
+Response: Yes, you can update the access code from any device connected to your network by accessing the gateway settings.
+
+Question: What should I do if I forgot my customized access code?
+Response: If you forgot your customized access code, press and hold the Reset button to revert to the default access code.
+
+Question: How can I access the gateway settings to update the access code?
+Response: Access the gateway settings by entering the gateway's IP address into a web browser from a connected device.
+
+Question: What are the risks of not customizing the device access code?
+Response: Not customizing the access code can allow anyone on your network to change settings, lock you out, or grant themselves unauthorized access.
+
